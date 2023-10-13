@@ -1,1 +1,1 @@
-# CCSF Engineering Club Github!
+CCSF Engineering Club Github!
