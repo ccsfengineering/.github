@@ -1,1 +1,2 @@
-CCSF Engineering Club Github!
+CCSF Engineering Club Github!  
+Where Awesome stuff happens!
